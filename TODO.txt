@@ -1,0 +1,4 @@
+TODO
+
+- Deal with exogenous observed vars
+- Ability to toggle stage 1 estimates (Yuan&Bent, Lavaan, Mplus)
